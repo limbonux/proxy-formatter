@@ -49,3 +49,9 @@ pip install requests pysocks urllib3
 - The script uses a test URL (`http://httpbin.org/ip`) to check the validity of each proxy.
 - Proxies that fail the connection test or timeout will not be included in the output file.
 ```
+# Support My Work!
+
+💵 If you're a fan of our project and want to support us, consider donating crypto. Your support will help us improve and expand, providing even more value to our users. Thank you for your generosity! 💵
+
+TON:
+`UQATbChkxTXjNepmCOKKH9Hv5t2cnkGfQOBF-w159gJVWJGQ`
