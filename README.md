@@ -46,7 +46,7 @@ pip install requests pysocks urllib3
 - **Output file:** `working_proxies.txt` — Contains the list of validated and working proxies.
 
 ## 📝 Notes
-- The script uses a test URL (`http://httpbin.org/ip`) to check the validity of each proxy.
+- The script uses a test URL (`http://example.com`) to check the validity of each proxy.
 - Proxies that fail the connection test or timeout will not be included in the output file.
 
 # Support My Work!
